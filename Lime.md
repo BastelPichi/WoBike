@@ -390,6 +390,27 @@ In select cities, a GBFS feed is also available. Louisville is one for example.
 
 **URL** `https://data.lime.bike/api/partners/v1/gbfs/<city>/gbfs.json`
 
+## Cities
+| United States  | Germany, Austria and Switzerland | France    | Canada   | Israel    | Norway and Italy | Australia and New Zealand | Belgium   |
+|----------------|----------------------------------|-----------|----------|-----------|------------------|---------------------------|-----------|
+| baltimore      | hamburg                          | paris     | kelowna  | tel_aviv  | oslo             | auckland                  | antwerp   |
+| cleveland      | oberhausen                       | marseille | edmonton |           | rome             | sydney                    | brussels  |
+| detroit        | opfikon                          | paris     |          |           | verona           |                           |           |
+| grand_rapids   | reutlingen                       |           |          |           |                  |                           |           |
+| new_york       | solingen                         |           |          |           |                  |                           |           |
+| norfolk_va     | zug                              |           |          |           |                  |                           |           |
+| washington_dc  |                                  |           |          |           |                  |                           |           |
+| colorado_springs|                                  |           |          |           |                  |                           |           |
+| louisville     |                                  |           |          |           |                  |                           |           |
+| oakland        |                                  |           |          |           |                  |                           |           |
+| san_francisco  |                                  |           |          |           |                  |                           |           |
+| san_jose       |                                  |           |          |           |                  |                           |           |
+| seattle        |                                  |           |          |           |                  |                           |           |
+| chicago        |                                  |           |          |           |                  |                           |           |
+
+
+---
+
 The Juicer API can be found here: https://github.com/davidwim/lime-juicer/
 
 ## Implementations
