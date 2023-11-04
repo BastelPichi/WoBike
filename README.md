@@ -29,7 +29,8 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 - [Spin](Spin.md)
 - [Pony](Pony.md)
 - [Bolt](Bolt.md)
-- [Evhcle](Évhcle.md)
+- [Evhcle](Evhcle.md)
+- [Link](Link.md)
 
 ## Scooters/Mopeds (🛵, that you sit on)
 - [Emmy (Germany)](Emmy.md)
