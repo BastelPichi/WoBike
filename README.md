@@ -14,6 +14,7 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 - [Bixi (Montreal)](Bixi.md)
 - [Donkey Republic](Donkey.md)
 - [Velo Antwerpen (Antwerp/Belgium)](VeloAntwerpen.md)
+- [Cargaroo](Cargaroo.md)
 
 ## E-Scooters (🛴, that you stand on)
 - [Bird](Bird.md)
