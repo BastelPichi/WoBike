@@ -33,6 +33,7 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 - [Bolt](Bolt.md)
 - [Evhcle](Evhcle.md)
 - [Link](Link.md)
+- [Ryde](Ryde.md)
 
 ## Scooters/Mopeds (🛵, that you sit on)
 - [Emmy (Germany)](Emmy.md)
